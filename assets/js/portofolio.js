@@ -90,6 +90,18 @@ data = {
 			"tagline": "Android, native, jetpack, mvvm, solid, java",
 			"img": "dicoding_movie_catalog_jetpackpro.png",
 			"description": "This is a submission project android jetpack pro to management architecture project android course in dicoding.com (2020)",
+		}, {
+			"title": "System E-Improvement.",
+			"tag": "filter-mobile-app",
+			"tagline": "Android, native, jetpack, mvvm, solid, kotlin, dependency injection, modularization, implement design pattern",
+			"img": "eimprovement.png",
+			"description": "E-Improvement is made to meet the needs of employees in conveying ideas and input that can be given to the company.",
+		}, {
+			"title": "Survey OI.",
+			"tag": "filter-mobile-app",
+			"tagline": "Android, native, jetpack, mvvm, solid, kotlin, rom, dependency injection, modularization, implement design pattern",
+			"img": "surveyoi.png",
+			"description": "Survey OI is made to record stalls that use certain products, collect the amount of data, surveyor locations, photos of surveyors & stalls by saving them into internal memory before syncing.",
 		}
 	]
 }

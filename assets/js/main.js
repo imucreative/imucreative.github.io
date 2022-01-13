@@ -188,4 +188,9 @@
     items: 1
   });
 
+  var year = new Date().getFullYear();
+  document.getElementById("year1").innerHTML = year;
+  document.getElementById("year2").innerHTML = year;
+  document.getElementById("year3").innerHTML = year;
+
 })(jQuery);
