@@ -16,7 +16,7 @@ data = {
 			"academy": "Udacoding",
 			"learn": "Learn knowledge in Flutter's life cycle",
 		}, {
-			"title": "Flutter Developer Expert.",
+			"title": "Flutter Developer Expert 2019.",
 			"year": "2019",
 			"academy": "Dicoding Academy",
 			"learn": "Learn software architecture such as MVP",
@@ -40,6 +40,11 @@ data = {
 			"year": "2020",
 			"academy": "Dicoding Academy",
 			"learn": "Learn Architecture Components in Android Jetpack ",
+		}, {
+			"title": "Flutter Developer Expert 2022",
+			"year": "2022",
+			"academy": "Dicoding Academy",
+			"learn": "Learn Architecture Components in Flutter, CICD, Scurity (SSL Pinning, Encription), TDD, Modularization, Reactive Programming with BLOC & CUBIT",
 		}
 	]
 }

@@ -73,7 +73,7 @@ data = {
 			"img": "wedding_indra_dona.png",
 			"description": "System information wedding invitation",
 		}, {
-			"title": "Flutter development expert.",
+			"title": "Flutter development expert 2019.",
 			"tag": "filter-mobile-app",
 			"tagline": "Flutter, course, dicoding.com",
 			"img": "dicoding_flutter_dev_expert.png",
@@ -102,6 +102,12 @@ data = {
 			"tagline": "Android, native, jetpack, mvvm, solid, kotlin, rom, dependency injection, modularization, implement design pattern",
 			"img": "surveyoi.png",
 			"description": "Survey OI is made to record stalls that use certain products, collect the amount of data, surveyor locations, photos of surveyors & stalls by saving them into internal memory before syncing.",
+		}, {
+			"title": "Flutter Developer Expert 2022.",
+			"tag": "filter-mobile-app",
+			"tagline": "Flutter, Architecture, bloc, cubit, Modularization, CICD, TDD",
+			"img": "ditonton.png",
+			"description": "Learn Architecture Components in Flutter, CICD, Scurity (SSL Pinning, Encription), TDD, Modularization, Reactive Programming with BLOC & CUBIT",
 		}
 	]
 }
