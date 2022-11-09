@@ -45,6 +45,21 @@ data = {
 			"year": "2022",
 			"academy": "Dicoding Academy",
 			"learn": "Learn Architecture Components in Flutter, CICD, Scurity (SSL Pinning, Encription), TDD, Modularization, Reactive Programming with BLOC & CUBIT",
+		}, {
+			"title": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)",
+			"year": "2022",
+			"academy": "Dicoding Academy",
+			"learn": "Belajar menjadi seorang AWS Solutions Architect dengan mengacu pada standar kompetensi internasional milik AWS",
+		}, {
+			"title": "Pengembangan Aplikasi Android Intermediate Disusun",
+			"year": "2022",
+			"academy": "Dicoding Academy",
+			"learn": "Belajar Advanced UI, Animation, Localization & Accessibility, Service, Media, Geo Location, Advanced Testing, Advanced Database, Firebase",
+		}, {
+			"title": "Fundamental Aplikasi Back-End",
+			"year": "2022",
+			"academy": "Dicoding Academy",
+			"learn": "Belajar Hapi Plugin dan Data Validation, Database menggunakan Amazon RDS, Authentication dan Authorization, Normalisasi Database, Message Broker dengan Amazon MQ, Storage dengan Amazon S3, Caching menggunakan Amazon ElastiCache",
 		}
 	]
 }
