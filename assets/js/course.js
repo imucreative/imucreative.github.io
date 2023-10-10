@@ -60,6 +60,11 @@ data = {
 			"year": "2022",
 			"academy": "Dicoding Academy",
 			"learn": "Belajar Hapi Plugin dan Data Validation, Database menggunakan Amazon RDS, Authentication dan Authorization, Normalisasi Database, Message Broker dengan Amazon MQ, Storage dengan Amazon S3, Caching menggunakan Amazon ElastiCache",
+		}, {
+			"title": "Expert Aplikasi Back-End Developer",
+			"year": "2023",
+			"academy": "Dicoding Academy",
+			"learn": "Belajar Automation Test, Clean Arsitektur, CICD, Security & Scalability",
 		}
 	]
 }
